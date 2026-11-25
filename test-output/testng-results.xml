@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-28T13:17:50 IST" name="Default suite" finished-at="2026-10-28T13:17:56 IST" duration-ms="5623">
+    <groups>
+    </groups>
+    <test started-at="2026-10-28T13:17:50 IST" name="Default test" finished-at="2026-10-28T13:17:56 IST" duration-ms="5623">
+      <class name="test_exam.Et">
+        <test-method is-config="true" signature="a()[pri:0, instance:test_exam.Et@1ff4931d]" started-at="2026-10-28T13:17:50 IST" name="a" finished-at="2026-10-28T13:17:51 IST" duration-ms="1089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method is-config="true" signature="geturl()[pri:0, instance:test_exam.Et@1ff4931d]" started-at="2026-10-28T13:17:52 IST" name="geturl" finished-at="2026-10-28T13:17:56 IST" duration-ms="4304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- geturl -->
+        <test-method signature="test()[pri:0, instance:test_exam.Et@1ff4931d]" started-at="2026-10-28T13:17:56 IST" name="test" finished-at="2026-10-28T13:17:56 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- test_exam.Et -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
